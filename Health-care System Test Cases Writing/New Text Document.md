@@ -1,0 +1,1 @@
+This project will help a patient to order doctors appointment easily. A doctor will be able make people know about him/her by using this website. He will get necessary information of his/her patient and communicate with patient.
